@@ -1,2 +1,2 @@
 # ObjectOrientedSoftwareDev
-# Work completed while attending dePaul University while taking Object Oriented Software Development
+Work completed while attending dePaul University while taking Object Oriented Software Development
